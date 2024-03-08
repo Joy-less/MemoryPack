@@ -15,5 +15,4 @@
         <ProjectReference Include="..\MemoryPack.Core\MemoryPack.Core.csproj" />
         <ProjectReference Include="..\MemoryPack.Generator\MemoryPack.Generator.csproj" />
     </ItemGroup>
-
 </Project>
